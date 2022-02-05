@@ -1,0 +1,6 @@
+# global
+.DS_Store
+
+# root relative
+/node_modules
+/dist
